@@ -5,7 +5,7 @@
 ## Welcome
 
 **CodeClick** brings the power of UI visual editing and AI into any React project, with 5-second integration, intuitive design, and no learning curve.
-
+![Video](https://github.com/codeclick-dev/react/assets/174340752/59d51b99-7264-4fde-a86b-0e5ea1633766)
 
 ## Getting Started [Beta version]
 Execute the following command at the root of your existing React project.
